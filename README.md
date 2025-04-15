@@ -1,7 +1,7 @@
 # Sudoku_Depth-First-Search
 How to use:
 
-nRun the file Sudoku_DFS.py
+Run the file Sudoku_DFS.py
 
 Output will be generated as sudoku_testcase.txt
 
